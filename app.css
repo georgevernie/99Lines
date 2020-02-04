@@ -1,0 +1,19 @@
+body{
+    background-color: gainsboro;
+}
+h1{
+    color:peru;
+    text-align: center;
+}
+.friend{
+    background-color: rgb(212, 208, 208);
+}
+.friend:h3{
+    text-transform: uppercase;
+}
+p{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
